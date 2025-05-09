@@ -27,7 +27,7 @@ public class Main {
         yourCar.drive(); // Output: The Blue Honda is driving.
 
         // Summary:
-        // Car.java defines the class.
+        // Car defines the class.
         // myCar and yourCar are objects.
     }
 }
